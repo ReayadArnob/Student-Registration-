@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Student Regitration P\Student Regitration P\bin\Debug\Student Regitration P.exe.config
+C:\Users\HP\source\repos\Student Regitration P\Student Regitration P\bin\Debug\Student Regitration P.exe
+C:\Users\HP\source\repos\Student Regitration P\Student Regitration P\bin\Debug\Student Regitration P.pdb
+C:\Users\HP\source\repos\Student Regitration P\Student Regitration P\obj\Debug\Student Registration P.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Student Regitration P\Student Regitration P\obj\Debug\Student_Regitration_P.DashBoardForm.resources
+C:\Users\HP\source\repos\Student Regitration P\Student Regitration P\obj\Debug\Student_Regitration_P.LogIn.resources
+C:\Users\HP\source\repos\Student Regitration P\Student Regitration P\obj\Debug\Student_Regitration_P.Properties.Resources.resources
+C:\Users\HP\source\repos\Student Regitration P\Student Regitration P\obj\Debug\Student Registration P.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Student Regitration P\Student Regitration P\obj\Debug\Student Registration P.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Student Regitration P\Student Regitration P\obj\Debug\Student Regitration P.exe
+C:\Users\HP\source\repos\Student Regitration P\Student Regitration P\obj\Debug\Student Regitration P.pdb
